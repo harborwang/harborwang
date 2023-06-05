@@ -14,7 +14,8 @@ A data lover with experience in health care/biostatistics/epidemiology, logistic
 
 -->
 
-A data lover working in health care/bistatistics/epidemiology, logistics, and financial business. R is my primary coding language and also use SQL and Python
+A data lover working in health care/biostatistics/epidemiology, logistics, and financial business. R is my primary coding language and also use SQL and Python
 
-- 🌱 I’m currently learning tidyverse, R Markdown, R Shiny
+- 🔭 I’m currently working on machine learning forecasting and prediction in financial business
+- 🌱 I’m currently learning tidyverse, tidymodels, R Markdown, R Shiny
 - 💬 Ask me about R, SQL, and Python
